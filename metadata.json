@@ -1,0 +1,6 @@
+{
+  "name": "Orrery Live - NASA Solar System Explorer",
+  "description": "Explore heavenly bodies in our solar system with real-time NASA JPL ephemerides, planetary physics, and Near-Earth Objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
